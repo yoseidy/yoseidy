@@ -1,9 +1,9 @@
-<a href="https://yoseidy.github.io/portafolio2025/">
+<a href="https://yoseidy.github.io/">
   <img src="assets/hero.png" width="100%" alt="Yoseidy Perez — Flutter & Full Stack Developer. Diseño, desarrollo y publico apps en App Store y Google Play, con el panel web y la API que las sostienen.">
 </a>
 
 <p align="center">
-  <a href="https://yoseidy.github.io/portafolio2025/"><img src="https://img.shields.io/badge/Portafolio-yoseidy.github.io-8B5CF6?style=for-the-badge&labelColor=0F0D17&logo=githubpages&logoColor=F5F3FA" alt="Portafolio"></a>
+  <a href="https://yoseidy.github.io/"><img src="https://img.shields.io/badge/Portafolio-yoseidy.github.io-8B5CF6?style=for-the-badge&labelColor=0F0D17&logo=githubpages&logoColor=F5F3FA" alt="Portafolio"></a>
   <a href="https://www.linkedin.com/in/yoseidy-perez-6928ab17a"><img src="https://img.shields.io/badge/LinkedIn-yoseidy--perez-8B5CF6?style=for-the-badge&labelColor=0F0D17&logoColor=F5F3FA" alt="LinkedIn"></a>
   <a href="https://medium.com/@yoseidy93"><img src="https://img.shields.io/badge/Medium-@yoseidy93-8B5CF6?style=for-the-badge&labelColor=0F0D17&logo=medium&logoColor=F5F3FA" alt="Medium"></a>
   <a href="mailto:yoseidy93@gmail.com"><img src="https://img.shields.io/badge/Email-yoseidy93@gmail.com-8B5CF6?style=for-the-badge&labelColor=0F0D17&logo=gmail&logoColor=F5F3FA" alt="Email"></a>
@@ -20,13 +20,13 @@ Soy **Ingeniera Informática** con 9 años de experiencia. Empecé en el fronten
 
 <img src="assets/t2.png" width="100%" alt="02 Proyectos — trabajo en producción.">
 
-<a href="https://yoseidy.github.io/portafolio2025/#work"><img src="assets/p0.png" width="100%" alt="SCREEN (ShowMee): app kiosko para tablet + panel web + API para vender en tienda física. Arquitectura multi-tenant. Flutter, GetX, Vue 3, Node.js, Socket.IO, Shopify API."></a>
+<a href="https://yoseidy.github.io/#work"><img src="assets/p0.png" width="100%" alt="SCREEN (ShowMee): app kiosko para tablet + panel web + API para vender en tienda física. Arquitectura multi-tenant. Flutter, GetX, Vue 3, Node.js, Socket.IO, Shopify API."></a>
 
-<a href="https://yoseidy.github.io/portafolio2025/#work"><img src="assets/p1.png" width="100%" alt="STEII: app iOS/Android para reservar amenidades y pagar en edificios residenciales. Ciclo completo hasta las tiendas. Flutter, go_router, Google Maps, Node.js, MongoDB."></a>
+<a href="https://yoseidy.github.io/#work"><img src="assets/p1.png" width="100%" alt="STEII: app iOS/Android para reservar amenidades y pagar en edificios residenciales. Ciclo completo hasta las tiendas. Flutter, go_router, Google Maps, Node.js, MongoDB."></a>
 
-<a href="https://yoseidy.github.io/portafolio2025/#work"><img src="assets/p2.png" width="100%" alt="Apps para tiendas Shopify (Snatched Body, Fajas Salomé): catálogo, tallas, carrito, pedidos, pagos y push. Flutter, Shopify Admin API, Firebase."></a>
+<a href="https://yoseidy.github.io/#work"><img src="assets/p2.png" width="100%" alt="Apps para tiendas Shopify (Snatched Body, Fajas Salomé): catálogo, tallas, carrito, pedidos, pagos y push. Flutter, Shopify Admin API, Firebase."></a>
 
-<a href="https://yoseidy.github.io/portafolio2025/#work"><img src="assets/p3.png" width="100%" alt="Cata1og: app mayorista multitienda con precios por volumen, publicada en App Store y Google Play. Flutter."></a>
+<a href="https://yoseidy.github.io/#work"><img src="assets/p3.png" width="100%" alt="Cata1og: app mayorista multitienda con precios por volumen, publicada en App Store y Google Play. Flutter."></a>
 
 <sub>Todas las pantallas son capturas reales de apps publicadas. El código de estos proyectos es privado (trabajo para empresa).</sub>
 
